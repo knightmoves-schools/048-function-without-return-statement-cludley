@@ -1,2 +1,4 @@
-let logUser = function(username)
-console.log($username)
+function logUser(username) {
+
+  console.log(`user: ${username}`);
+}
